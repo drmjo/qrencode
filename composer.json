@@ -1,0 +1,12 @@
+{
+    "name": "drmjo/qrencode",
+    "description": "qrencode ubuntu 14.04",
+    "keywords": ["binary"],
+    "license": "LGPL Version 3",
+    "minimum-stability": "stable",
+    "bin": [
+        "qrencode"
+    ],
+    "require": {
+    }
+}
